@@ -8,9 +8,9 @@ A Python bot that reads a WhatsApp Web chat and writes a short reply as "Dixcy" 
 3. Pastes reply into the message box
 
 # Requirements
-We have used Interpreter Python 3.12
-WhatsApp Web open in Microsoft Edge browser
-A free Google Gemini API key from https://aistudio.google.com/apikey
+- We have used Interpreter Python 3.12 version.
+- WhatsApp Web open in Microsoft Edge browser.
+- A free Google Gemini API key from https://aistudio.google.com/apikey
 
 # Setup
 1. Install the packages:
@@ -27,7 +27,7 @@ Don't share this file with anyone.
 
 python main.py
 ```
-Switch to WhatsApp Web within 3 seconds. Move the mouse to a screen corner to stop the script.
+Switch to WhatsApp Web within 3 seconds. Move the cursor to a screen corner to stop the script.
 
 Notes
 - `AUTO_SEND = False` by default, so you can read each reply before sending.
